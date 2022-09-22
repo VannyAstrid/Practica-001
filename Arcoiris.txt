@@ -2,9 +2,11 @@ Hola Ginhub, esta es mi primera practica en la plataforma
 
 Colores del arcoiris
 
-Rojo 
+Rojo
+Naranja
+Amarillo
 Verde
 Azul
 Morado
-Amarillo
+Violeta
 
